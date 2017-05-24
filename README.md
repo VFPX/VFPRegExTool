@@ -5,7 +5,7 @@ Project Manager: Marco Plaza
 
 This project provides a testing tool so Visual FoxPro developers can verify regular expression visually within the Visual FoxPro IDE. It is based on vbScript.regexp.
 
-![](VfpRegexTool_vfpregexTool.jpg) 
+![](VfpRegexTool_vfpRegexTool.jpg) 
 
 ## RELEASE NOTES
 
