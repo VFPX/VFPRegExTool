@@ -1,17 +1,16 @@
 # VFPRegExTool
 
-
-Project Manager: Marco Plaza
-
-This project provides a testing tool so Visual FoxPro developers can verify regular expression visually within the Visual FoxPro IDE. It is based on vbScript.regexp.
+Project Manager: Marco Plaza ( github.com/mplazac  github.com/nftools )
 
 ![](VfpRegexTool_vfpRegexTool.jpg) 
 
-## RELEASE NOTES
-
-Allows you to test regular expressions in VFP using vbscript.regexp.
+Allows you to test regular expressions using  VFP using vbscript.regexp.
 
 Just paste a text snippet and your regular expression, set case sensitive and global options to see the matches highlighted and match / submatch results.
+
+Use it as powerful find/replace tool, perform replace operations over subgroups & setting replace value to any valid foxpro function.
+
+## RELEASE NOTES
 
 24/08/16:  
 * Added Evaluate on/off button
