@@ -1,6 +1,6 @@
 # VFPRegExTool
 
-Project Manager: Marco Plaza ( github.com/mplazac  github.com/nftools )
+Project developer: Marco Plaza ( github.com/nfoxdev )
 
 ![](VfpRegexTool_vfpRegexTool.jpg) 
 
