@@ -4,7 +4,7 @@ Project developer: Marco Plaza  [GitHub/nfoxdev](https://github.com/nfoxdev)
 
 ![](VfpRegexTool_vfpRegexTool.jpg) 
 
-Allows you to test regular expressions using  VFP using vbscript.regexp.
+Test regular expressions using vbscript.regexp.
 
 Just paste a text snippet and your regular expression, set case sensitive and global options to see the matches highlighted and match / submatch results.
 
